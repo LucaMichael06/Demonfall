@@ -3,7 +3,7 @@
 	Dont skid this or there will be legal action
 --]]
 
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/JRL-lav/Scripts/main/U"))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/JRL-lav/Scripts/main/"))()
 local Window = Library:CreateWindow("Kronos | Demonfall")
 
 -- // Pre Scripts
