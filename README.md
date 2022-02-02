@@ -811,4 +811,4 @@ cred:AddLabel({text = "GodMode|CandyLean#2645"})
 -- // Init \\ -- 
 Library:Init()
 
-game.Players["LocalPlayer"]:Kick("Banned from the experience")
+game.Players["LocalPlayer"]:Kick("kicked from the experience: For hacking")
