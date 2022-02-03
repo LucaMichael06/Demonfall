@@ -1,4 +1,8 @@
+	game.Players["LocalPlayer"]:Kick("Kicked from the experience: For Hacking")
+
+
 --[[
+
 	Made by Kyojuro Rengoku💥#0001
 	Dont skid this or there will be legal action
 --]]
@@ -810,5 +814,3 @@ cred:AddLabel({text = "GodMode|CandyLean#2645"})
 
 -- // Init \\ -- 
 Library:Init()
-
-game.Players["LocalPlayer"]:Kick("kicked from the experience: For hacking")
