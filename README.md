@@ -1,6 +1,3 @@
-	game.Players["LocalPlayer"]:Kick("Kicked from the experience: For Hacking")
-
-
 --[[
 
 	Made by Kyojuro Rengoku💥#0001
